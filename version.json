@@ -1,1 +1,17 @@
-
+{
+  "version": "1.0.0.10",
+  "buildNumber": "TA260803",
+  "releaseDate": "2026-08-03",
+  "downloadUrl": "https://github.com/hash9118/testAPP/releases/download/TA260803/Setup_TeacherAssistant_v1.0.0.10.exe",
+  "sha256": "b5a2610b6ec7274ca2162682b96c061c6d5b267db6cfdd35cd22184224167ca5",
+  "signatureUrl": "https://github.com/hash9118/testAPP/releases/download/TA260803/TeacherAssistant.exe.integrity",
+  "signatureSha256": "0ee9646e4c45b5c2d5051625c289dd1125e3eaf1d414bbc00910135247731329",
+  "mandatory": false,
+  "changelog": [
+    "تجربة التحديث الثانية"
+  ],
+  "setupFile": "Setup_TeacherAssistant_v1.0.0.10.exe",
+  "manifestSig": "zocxQpBz3Zrd8Hzy/kREGXGrFapTeGGuYwSc4K94DymUBuLWXpvc89++yd2CGUPaEd8UwRJRLyEkPMN/6lku+Q==",
+  "signedAt": "2026-08-03T10:49:25.5656066Z",
+  "allowRollback": false
+}
