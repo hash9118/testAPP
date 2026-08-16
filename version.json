@@ -1,17 +1,17 @@
 {
-  "version": "1.0.0.13",
-  "buildNumber": "TA260816",
+  "version": "1.0.0.14",
+  "buildNumber": "TA260817",
   "releaseDate": "2026-08-16",
-  "downloadUrl": "https://github.com/hash9118/testAPP/releases/download/TA260816/Setup_TeacherAssistant_v1.0.0.13.exe",
-  "sha256": "97817cb695a74f1b86b41f1aae395f663d3d267ab0fc44dacf08eefefa3d54e8",
-  "signatureUrl": "https://github.com/hash9118/testAPP/releases/download/TA260816/TeacherAssistant.exe.integrity",
-  "signatureSha256": "28173cc206e0283ecdf246ab1e48a818224d5172cd4d905dd134451bad82f12d",
+  "downloadUrl": "https://github.com/hash9118/testAPP/releases/download/TA260817/Setup_TeacherAssistant_v1.0.0.14.exe",
+  "sha256": "4047144c8c93b0f0b9a5839a83096f8987431f192d8970469e4c289bd231a9aa",
+  "signatureUrl": "https://github.com/hash9118/testAPP/releases/download/TA260817/TeacherAssistant.exe.integrity",
+  "signatureSha256": "bc15544cc669c46717fd5794de5def0c4574bf739c552257227a64eb52138569",
   "mandatory": false,
   "changelog": [
-    "النسخة الجاهزة"
+    "نسخة الاطلاق"
   ],
-  "setupFile": "Setup_TeacherAssistant_v1.0.0.13.exe",
-  "manifestSig": "4iO8o1WHZ58ZLxFgppNWxPXiTM3HlB3cBvwCT9GG5eJbKwRJnmLAEZJ6gU0chCY0rXy2WBH+sIVwnTkE7EaBeA==",
-  "signedAt": "2026-08-15T21:19:57.5578472Z",
+  "setupFile": "Setup_TeacherAssistant_v1.0.0.14.exe",
+  "manifestSig": "yZZ/MEope8GVFWBcSoEZKZ00CWJWs5XTCGo8QvWtFoIB5SCNdT9akzgDeFoqXDa/glR3zMLBqYew4lVrvFKRQw==",
+  "signedAt": "2026-08-16T01:41:08.8484102Z",
   "allowRollback": false
 }
