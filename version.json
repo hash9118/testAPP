@@ -1,19 +1,17 @@
 {
-  "version": "1.0.0.18",
-  "buildNumber": "TA260821",
-  "releaseDate": "2026-08-19",
-  "downloadUrl": "https://github.com/hash9118/testAPP/releases/download/TA260821/Setup_TeacherAssistant_v1.0.0.18.exe",
-  "sha256": "2A53FBA06C31AE245C251EA061EC0BAE8C523593273CDFEC003AF26EF53A79FC",
-  "signatureUrl": "https://github.com/hash9118/testAPP/releases/download/TA260821/TeacherAssistant.exe.integrity",
-  "signatureSha256": "0224E04D984D68140C2C691A87E81518BBFC75BDA62992515673B5CBE7ED0E08",
+  "version": "1.0.0.19",
+  "buildNumber": "TA260822",
+  "releaseDate": "2026-08-30",
+  "downloadUrl": "https://github.com/hash9118/testAPP/releases/download/TA260822/Setup_TeacherAssistant_v1.0.0.19.exe",
+  "sha256": "0AA8FB0FACF0C31EE96AF62867549C42388EB8924B6654C6817862083A3762E7",
+  "signatureUrl": "https://github.com/hash9118/testAPP/releases/download/TA260822/TeacherAssistant.exe.integrity",
+  "signatureSha256": "6D5BEB1EF6541B3CDEE7C4301505E71D65F16FE9D87FA084C9E7A8014F23AED1",
   "mandatory": false,
   "changelog": [
-    "- اضافة الخطط العلاجية وااثرائية",
-    "- اصلاح عمليات المزامنة",
     "- اصلاحات عامة"
   ],
-  "setupFile": "Setup_TeacherAssistant_v1.0.0.18.exe",
-  "manifestSig": "uxDDM2y6QWtPuibBmoyPje4CDCKSOiGobkUL58QMnKSEC4FjLOBJwPipvcxmZsyAjYyWT6nI+H4SKHQ8sQUm0g==",
-  "signedAt": "2026-08-19T19:55:28.1350161Z",
+  "setupFile": "Setup_TeacherAssistant_v1.0.0.19.exe",
+  "manifestSig": "tLj/34Rc0zaby2o2qXdbaO7qQSDSsTEnP1Ve+bn3m7ciAZr4CHs1ANnMr2rAEhqH3+6Nt3NVPc1cQ8eJoHexbA==",
+  "signedAt": "2026-08-30T20:21:51.2012698Z",
   "allowRollback": false
 }
